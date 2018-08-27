@@ -1,10 +1,9 @@
-# Asterion
-*Example - Blog*
+# Asterion Base
 
-<br/>
+Asterion works in **PHP** *(version 5.3 with the PDO-MySQL extension)* and a **MySQL** database.
 
-This is the example of a blog, you can find the code here for the web that is on **www.asterion-cms.com**
+You must have a proper **Apache server** running or either **MAMP** (http://www.mamp.info) or **EasyPhp** (http://www.easyphp.org) to run the framework.
 
-<br/>
+To install this example just run
 
-For more information refer to the main project in **http://www.github.com/asterion-cms/asterion**
+```./install.sh```
