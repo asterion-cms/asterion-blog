@@ -1,4 +1,4 @@
-# Asterion Base
+# Asterion Blog
 
 Asterion works in **PHP** *(version 5.3 with the PDO-MySQL extension)* and a **MySQL** database.
 
